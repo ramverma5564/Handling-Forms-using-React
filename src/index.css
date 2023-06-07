@@ -1,0 +1,16 @@
+* {
+  box-sizing: border-box;
+}
+
+form {
+  display: flex;
+  flex-direction: column;
+  width: 200px;
+  margin: 10px;
+}
+
+input {
+  margin: 4px;
+  height: 25px;
+  border-radius: 5px;
+}
